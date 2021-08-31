@@ -1,0 +1,6 @@
+include ':libd'
+include ':libc'
+include ':libb'
+include ':liba'
+include ':app'
+rootProject.name = "DependencyDelivery"
